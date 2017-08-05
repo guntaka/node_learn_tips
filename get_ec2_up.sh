@@ -19,3 +19,8 @@ npm start
 #resources
 #http://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/setting-up-node-on-ec2-instance.html
 #https://stackoverflow.com/questions/41782253/how-do-i-install-angularjs-2-using-npm
+
+
+ # install Angular2 CLI
+ npm install -g @angular/cli
+ 
